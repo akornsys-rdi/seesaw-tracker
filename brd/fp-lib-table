@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name pec12r)(type KiCad)(uri "$(KIPRJMOD)/lib/pec12r.pretty")(options "")(descr ""))
+  (lib (name zmx0)(type KiCad)(uri "$(KIPRJMOD)/lib/zmx0.pretty")(options "")(descr ""))
+  (lib (name logo-ex)(type KiCad)(uri "$(KIPRJMOD)/lib/logo-ex.pretty")(options "")(descr ""))
+)
