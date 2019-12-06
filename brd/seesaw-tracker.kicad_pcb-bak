@@ -1,9 +1,9 @@
 (kicad_pcb (version 4) (host pcbnew 4.0.7-e2-6376~61~ubuntu18.04.1)
 
   (general
-    (links 0)
+    (links 105)
     (no_connects 3)
-    (area -0.075001 -0.075001 50.075001 71.075001)
+    (area -14.849999 -9.7 58.682572 71.819001)
     (thickness 1.6)
     (drawings 13)
     (tracks 517)
@@ -13,6 +13,16 @@
   )
 
   (page A4)
+  (title_block
+    (title "Seesaw Tracker")
+    (date 2019-11-30)
+    (rev release-v0.1A)
+    (company "EX arte electrónico y experimental")
+    (comment 2 "Revised by: R. García")
+    (comment 3 "Drawn by: R. García")
+    (comment 4 "Designed by: R. García")
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
